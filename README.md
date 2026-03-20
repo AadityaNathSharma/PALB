@@ -1,6 +1,6 @@
-# Data Structures and Algorithms Practice Repository
+# 📘 Data Structures and Algorithms Practice Repository
 
-## Overview
+## 🚀 Overview
 
 This repository contains solutions to Data Structures and Algorithms (DSA) problems assigned by trainers, along with additional problems solved during personal practice.
 
@@ -13,11 +13,11 @@ The purpose of this repository is to:
 
 ---
 
-## Structure
+## 📂 Structure
 
 Problems are organized using a numbered naming convention for clarity and easy navigation:
 
-```
+```id="p3k9zm"
 001_problem_name  
 002_problem_name  
 003_problem_name  
@@ -28,7 +28,7 @@ Each file represents a single problem and its solution.
 
 ---
 
-## Topics Covered
+## 🧠 Topics Covered
 
 This repository includes problems from various core DSA topics:
 
@@ -44,7 +44,7 @@ This repository includes problems from various core DSA topics:
 
 ---
 
-## Approach
+## 💡 Approach
 
 For each problem, the focus is on:
 
@@ -55,7 +55,7 @@ For each problem, the focus is on:
 
 ---
 
-## Goal
+## 🎯 Goal
 
 The objective is to:
 
@@ -65,19 +65,23 @@ The objective is to:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * Language: Python
 * Environment: VS Code, GitHub
 
 ---
 
-## Progress
+## 📈 Progress
 
 This repository is actively updated as part of continuous learning and practice.
 
 ---
 
-## Note
+## 📌 Note
 
 All problems are solved as part of structured training and self-practice. The emphasis is on consistent improvement and understanding rather than just completing problems.
+
+---
+
+🔥 Consistency over intensity.
